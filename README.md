@@ -1,2 +1,2 @@
-Hi 👋 My name is Isha Harne A
+Hi 👋 My name is Isha Harne 
 ===========================
