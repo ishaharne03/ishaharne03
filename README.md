@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left">I'm Isha<br><br>- 🔭🎓 MS in Computer Science at Binghamton University  
-🤖 GenAI Developer with experience in LLMs, RAG, AI Agents, and ML systems  
-☁️ Interested in AI infrastructure, inference optimization, and deployment  
-🛠 Love building end to end AI products from idea to production  
-📚 Always learning and experimenting with new AI frameworks</p>
+<p align="left">I'm Isha, currently pursuing a Master’s in Computer Science at Binghamton University. I work as a GenAI Developer with experience in LLMs, RAG, AI agents, and machine learning systems, and I’m deeply interested in AI infrastructure, inference optimization, and deployment. I enjoy building end-to-end AI products from idea to production and continuously explore and experiment with emerging AI frameworks and technologies.</p>
 
 ###
