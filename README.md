@@ -8,6 +8,10 @@
 
 ###
 
-<p align="left">I'm Isha<br><br>- 🔭 I'm a student at Binghamton University<br>- 🌱 I'm currently embarking on a Web Development Odyssey<br>- 📫 You can reach me at isha.harne03@gmail.com<br>- 🌈 Every day is a step forward!</p>
+<p align="left">I'm Isha<br><br>- 🔭🎓 MS in Computer Science at Binghamton University  
+🤖 GenAI Developer with experience in LLMs, RAG, AI Agents, and ML systems  
+☁️ Interested in AI infrastructure, inference optimization, and deployment  
+🛠 Love building end to end AI products from idea to production  
+📚 Always learning and experimenting with new AI frameworks</p>
 
 ###
